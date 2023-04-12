@@ -1,4 +1,15 @@
-.bestCoffee{
+.header{
+    background-image: url(/img/ourCoffee.png) !important;
+    height: 260px;
+    width: 100%;
+}
+
+.middle_text {
+    
+    padding-top: 30px;
+}
+
+/* .bestCoffee{
     position: relative;
     background-image: url(../img/MaskGroup.jpg);
      background-position: center;
@@ -26,7 +37,7 @@
     flex-direction: column;
     width: 220px;
     height: 240px;
-    /* border: 1px solid white; */
+
     border-radius: 8px;
     background-color: #FFFFFF;
 }
@@ -46,4 +57,4 @@
     font-weight: 700;
     align-self: flex-end;
     padding-right: 20px;
-}
+} */
