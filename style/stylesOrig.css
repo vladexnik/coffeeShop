@@ -33,6 +33,9 @@ a {
     /* cursor: pointer; */
 }
 
+br{
+    margin-bottom: 25px;
+}
 
 body {
     font-family: 'Merienda';
